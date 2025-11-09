@@ -37,7 +37,9 @@ Remove um visitante do banco de dados pelo CPF.
 ## 👨‍💻 Autor
 
 Luiz Fernando Martins dos Santos
+
 📧 e.luizfernando2006@gmail.com
+
 💼 linkedin.com/in/luizfernando-analista
 
 ## 🧾 Licença
