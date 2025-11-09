@@ -40,7 +40,7 @@ Luiz Fernando Martins dos Santos
 
 📧 e.luizfernando2006@gmail.com
 
-💼 linkedin.com/in/luizfernando-analista
+💼 https://www.linkedin.com/in/luizfernando-analista/
 
 ## 🧾 Licença
 
