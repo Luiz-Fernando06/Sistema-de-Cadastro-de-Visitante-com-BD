@@ -2,7 +2,7 @@
 
 Um sistema completo de cadastro e controle de visitantes desenvolvido em Python com integração ao MySQL, permitindo o gerenciamento de entradas, saídas e histórico de visitas de forma simples e eficiente via terminal.
 
-##🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - ✅ Registrar Entrada
 Cadastra um visitante no sistema, registrando automaticamente o horário de entrada.
@@ -22,7 +22,7 @@ Edita dados de um visitante (nome, visitado e motivo) mantendo o histórico.
 - ✅ Remover Registro
 Remove um visitante do banco de dados pelo CPF.
 
-##🧩 Tecnologias Utilizadas
+## 🧩 Tecnologias Utilizadas
 
 - Python 3
 
@@ -34,13 +34,13 @@ Remove um visitante do banco de dados pelo CPF.
 
 - time.sleep (para efeitos visuais e delays no menu)
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
 Luiz Fernando Martins dos Santos
 📧 e.luizfernando2006@gmail.com
 💼 linkedin.com/in/luizfernando-analista
 
-##🧾 Licença
+## 🧾 Licença
 
 Este projeto está sob a licença MIT — veja o arquivo LICENSE
  para mais detalhes.
